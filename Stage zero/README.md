@@ -14,18 +14,12 @@ This repository contains the solution to the stage-zero task for the Hackbio Int
 | Doris Nnenna Amuji    | Doris          | dorisnnenna2016@gmail.com    | Nigeria  | Biochemistry                    | Traveling                            | R                             |
 | Akshar Kumar Ssv      | Akshar         | ssvaksh@gmail.com            | Germany  | Computer Science                | Cooking, traveling, reading books    | Python                        |
 
-### 🧠 What I Did
+# What I Did
 - I used an R **data frame** to organize the team data.
 - No functions, loops, or conditionals were used.
 - The result was printed directly using `print()`.
 
-### 📁 Folder Structure
-```
-hackbio-biocoding-internship/
-└── stage-zero/
-    ├── team_info.R
-    └── README.md
-```
 
-### 🔗 Repository Link
+
+# 🔗 Repository Link
 > Add this after uploading to GitHub.
