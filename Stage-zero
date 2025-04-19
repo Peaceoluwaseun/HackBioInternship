@@ -1,0 +1,42 @@
+# Creating a data frame to hold the team information
+team_info <- data.frame(
+  # Names of all team members
+  Name = c("Peace Okunade", "Angitha Melvin", "Carol Eke", "Doris Nnenna Amuji", "Akshar Kumar Ssv"),
+
+  Slack_Username = c("Peace", "Angitha", "Carol", "Doris", "Akshar"), # Slack usernames
+
+  # Email addresses
+  Email = c( "seunokunade7@gmail.com","angithamelvin@gmail.com","Carololaeke@gmail.com", "dorisnnenna2016@gmail.com", "ssvaksh@gmail.com"
+  ),
+
+  # Countries of origin
+  Country = c("Nigeria", "India", "Nigeria", "Nigeria", "Germany"),
+
+  # Academic or professional disciplines
+  Discipline = c(
+    "Biomedical Laboratory Science",
+    "Data Science",
+    "Biology",
+    "Biochemistry",
+    "Computer Science"
+  ),
+
+  # Hobbies or personal interests
+  Hobby = c(
+    "Listening to music",
+    "Reading and volunteering",
+    "Loving God, people, and animation",
+    "Traveling",
+    "Cooking, traveling, reading books"
+  ),
+
+  # Preferred programming languages
+  Preferred_Programming_Language = c("R", "Python", "Python", "R", "Python"),
+
+  # This prevents R from converting text to factors automatically
+  stringsAsFactors = FALSE
+)
+
+# Display the final organized output
+print(team_info)
+
