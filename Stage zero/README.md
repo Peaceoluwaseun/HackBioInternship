@@ -19,6 +19,9 @@ This repository contains the solution to the stage-zero task for the Hackbio Int
 - No functions, loops, or conditionals were used.
 - The result was printed directly using `print()`.
 
+#repository link
+https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/Stage%20zero
+
 
 
 # 🔗 Repository Link
