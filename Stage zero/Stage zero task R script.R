@@ -39,9 +39,10 @@ team_info <- data.frame(
   # Preferred programming languages
   Preferred_Programming_Language = c("R", "Python", "Python", "R", "Python"),
 
-  # This prevents R from converting text to factors automatically
+  
   stringsAsFactors = FALSE
 )
-
-# Display the final organized output
 print(team_info)
+
+repository link- https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/Stage%20zero
+
