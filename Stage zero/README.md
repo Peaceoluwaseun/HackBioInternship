@@ -1,10 +1,10 @@
 # Hackbio Stage Zero Task
 
-## 👩‍💻 Team Members and Details
+# Team Members and Details
 
 This repository contains the solution to the stage-zero task for the Hackbio Internship. The task involved organizing team information using an appropriate R data structure without functions, loops, or conditionals.
 
-### ✅ Team Members
+#Team Members
 
 | Name                  | Slack Username | Email                        | Country  | Discipline                     | Hobby                                | Preferred Programming Language |
 |-----------------------|----------------|------------------------------|----------|----------------------------------|---------------------------------------|-------------------------------|
@@ -21,8 +21,3 @@ This repository contains the solution to the stage-zero task for the Hackbio Int
 
 #repository link
 https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/Stage%20zero
-
-
-
-# 🔗 Repository Link
-> Add this after uploading to GitHub.
