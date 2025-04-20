@@ -45,7 +45,7 @@ simulate_logistic_growth <- function(t_max = 100, K = 1, r = 0.2, N0 = 0.01) {
       N[i] <- K
     }
   }
-  return(data.frame(time = t, population = N))
+  return(data.frame(time = t, population density = N))
 }
 
 # Generate 100 different growth curves
@@ -60,9 +60,9 @@ generate_growth_curves <- function(n = 100) {
 
 # Function to find time to reach 80% of carrying capacity
 time_to_80_percent <- function(df) {
-  K <- max(df$population)
+  K <- max(df$population density)
   threshold <- 0.8 * K
-  df$time[which(df$population >= threshold)[1]]
+  df$time[which(df$population density >= threshold)[1]]
 }
 
 # Function to calculate Hamming distance
