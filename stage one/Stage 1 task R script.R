@@ -77,4 +77,5 @@ hamming_distance <- function(str1, str2) {
 growth_data <- generate_growth_curves()
 hamming_distance("peace", "peace okunade")
 
-# Stage one link https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/stage%20one
+# Stage one link 
+https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/stage%20one
