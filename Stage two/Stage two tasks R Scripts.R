@@ -114,3 +114,4 @@ tt2 <- t.test(BMI ~ Diabetes, data = nhanes)
 tt3 <- t.test(Alcohol_Year ~ Relationship_Status, data = nhanes)
 tt1; tt2; tt3
 
+#link: https://github.com/Peaceoluwaseun/HackBioInternship/tree/main/Stage%20two
